@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+GitHub Apps to automate and improve your workflow
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Probot apps are easy to write, deploy, and share. Many of the most popular Probot apps are hosted, so there's nothing for you to deploy and manage. Here are just a few examples of things that have been built with Probot:
+
+* Settings - Pull Requests for repository settings
+* Create Issue Branch - Creates a new branch after assigning an issue
+* No Response - Closes Issues where the author hasn't responded to a request for more information.
+* ESLint Disable Watcher - Comments on pull requests that try to disable eslint rules.
 
 ## Getting started
 
